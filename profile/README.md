@@ -1,11 +1,11 @@
 
 
-# Life in Shot
+# Momently
 
 
 ### About the project
 
-Hey ! `Life In Shot` is a project made me [Anh-Jo](https://github.com/Anh-Jo) for my girlfriend. 
+Hey ! `Momently` is a project made by me [Anh-Jo](https://github.com/Anh-Jo) for my girlfriend. 
 The idea is born because we met a problem on Instagram App : we can't share pictures only for us, or our family.
 Everything is public, sponsored. 
 
