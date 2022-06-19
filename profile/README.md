@@ -26,4 +26,16 @@ If you want to make it visible for all the world, just compute it to public.
 
 ### Roadmap
 
-It'll come later...
+It'll come later... (maybe my friend Notion will show you something)
+
+ 
+### Wanna contribute to this project ? 
+
+Fell free to open a new issue just : [here](https://github.com/Momently-app/.github/issues) ! 
+
+Maybe you just want to support the project, but without making a new issue, you also can [buy me a coffee](https://www.buymeacoffee.com/anhjo) ! ❤️
+
+
+### For the end
+
+Never forget to take pleasure when you craft something.
