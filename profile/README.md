@@ -28,7 +28,11 @@ If you want to make it visible for all the world, just compute it to public.
 
 It'll come later... (maybe my friend Notion will show you something)
 
- 
+
+### Join beta 
+
+You can join the Beta phase of the App, by submit this form 👉 [Subscribe](https://tcb3qqec7se.typeform.com/to/FKfhQFiy)
+
 ### Wanna contribute to this project ? 
 
 Fell free to open a new issue just : [here](https://github.com/Momently-app/.github/issues) ! 
